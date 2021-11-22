@@ -1,0 +1,1 @@
+'Vamos checar o Hash deste commit'
